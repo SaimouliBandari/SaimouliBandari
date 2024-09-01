@@ -2,9 +2,16 @@
 
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=SUSE&size=27&pause=1000&color=00C4F7&center=true&vCenter=true&width=600&height=150&lines=Hi+There+%F0%9F%91%8B;I'am+Mouli;A+FullStack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=SUSE&size=27&pause=1000&color=00C4F7&center=true&vCenter=true&width=600&height=150&lines=Hi+There+%F0%9F%91%8B;I'am+Mouli;A+FullStack+Developer;With+a+strong+command+of+React+Angular+Node.js+and+various+DevOps+tools.+Passionate+about+continuous+learning,+Mouli+embraces+a+hands-on,+trial-and-error+approach+to+mastering+new+technologies,+always+eager+to+expand+their+expertise+and+tackle+new+challenges" alt="Typing SVG" />
 </a>
 </h1>
+
+<!-- <h3>
+   Mouli is a skilled Full Stack Developer with a strong command of React, Angular, Node.js, and various DevOps tools. Passionate about continuous learning, Mouli embraces a hands-on, trial-and-error approach to mastering new technologies, always eager to expand their expertise and tackle new challenges.
+</h3> -->
+<div align="center">
+- 🌱 I’m currently learning Kubernetes, GCP, Aws, Azure
+</div>
 
 
 <div align="center"> 
