@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Serverless, Aws, ML**
 
-- 💬 Ask me about **react, react native, angular, nodejsjs,**
+- 💬 Ask me about **react, react native, angular, node.js,**
 
 - 📫 How to reach me **saimouli.bandari@gmail.com**
 
