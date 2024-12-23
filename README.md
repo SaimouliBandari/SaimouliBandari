@@ -135,8 +135,9 @@
 
 <img src="https://raw.githubusercontent.com/SaimouliBandari/SaimouliBandari/output/snake.svg" alt="Snake animation" />
 
-###
-<!-- BLOG-POST-LIST:START --> 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ###
