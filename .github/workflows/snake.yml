@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate snake animation and Latest blog post workflow
 
 on:
   schedule: # execute every 12 hours
@@ -32,3 +32,13 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+  update-readme-with-blog: 
+      name: Update this repo's README with latest blog posts
+      runs-on: ubuntu-latest
+      steps: 
+          - uses: actions/checkout@v2
+          - uses: gautamkrishnar/blog-post-workflow@master
+            with: 
+              max_post_count: "4"
+              feed_list: "https://medium.com/feed/@saimouli.bandari"
