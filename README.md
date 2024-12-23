@@ -138,6 +138,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Interactive AI Applications with Streamlit, Ollam and LangChain](https://medium.com/@saimouli.bandari/building-interactive-ai-applications-with-streamlit-ollam-and-langchain-f497f150ded5?source=rss-7b745401df93------2)
 <!-- BLOG-POST-LIST:END -->
 
 ###
