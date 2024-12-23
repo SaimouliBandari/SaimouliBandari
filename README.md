@@ -12,7 +12,12 @@
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning AWS, Kubernates, ML<br>🎯 Goals: Become Principal Software Engineer</p>
 
-###
+### 📕  Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Building Interactive AI Applications with Streamlit, Ollam and LangChain](https://medium.com/@saimouli.bandari/building-interactive-ai-applications-with-streamlit-ollam-and-langchain-f497f150ded5?source=rss-7b745401df93------2)
+<!-- BLOG-POST-LIST:END -->
+
+### 🔗  Connect with me
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -134,17 +139,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/SaimouliBandari/SaimouliBandari/output/snake.svg" alt="Snake animation" />
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Interactive AI Applications with Streamlit, Ollam and LangChain](https://medium.com/@saimouli.bandari/building-interactive-ai-applications-with-streamlit-ollam-and-langchain-f497f150ded5?source=rss-7b745401df93------2)
-<!-- BLOG-POST-LIST:END -->
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
