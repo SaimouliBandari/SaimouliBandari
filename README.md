@@ -14,6 +14,7 @@
 
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You Don’t Always Need to Optimize Your Code to Cut Cloud Bills — Sometimes, It’s Just a YAML File](https://medium.com/@saimouli.bandari/you-dont-always-need-to-optimize-your-code-to-cut-cloud-bills-sometimes-it-s-just-a-yaml-file-6d8b78b2e770?source=rss-7b745401df93------2)
 - [The Great Container Debate: Docker vs Podman](https://medium.com/@saimouli.bandari/the-great-container-debate-docker-vs-podman-e1d7d93949d2?source=rss-7b745401df93------2)
 - [Building Interactive AI Applications with Streamlit, Ollam and LangChain](https://medium.com/@saimouli.bandari/building-interactive-ai-applications-with-streamlit-ollam-and-langchain-f497f150ded5?source=rss-7b745401df93------2)
 <!-- BLOG-POST-LIST:END -->
